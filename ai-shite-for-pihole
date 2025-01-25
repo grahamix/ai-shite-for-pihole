@@ -1,5 +1,5 @@
 # MS Copilot from https://docs.github.com/en/copilot/managing-copilot/managing-github-copilot-in-your-organization/configuring-your-proxy-server-or-firewall-for-copilot
-copilot-telemetry.githubusercontent.com/telemetry
+copilot-telemetry.githubusercontent.com
 default.exp-tas.com
 copilot-proxy.githubusercontent.com
 origin-tracker.githubusercontent.com
