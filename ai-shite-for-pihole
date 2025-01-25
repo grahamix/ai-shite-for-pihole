@@ -1,0 +1,11 @@
+# MS Copilot from https://docs.github.com/en/copilot/managing-copilot/managing-github-copilot-in-your-organization/configuring-your-proxy-server-or-firewall-for-copilot
+copilot-telemetry.githubusercontent.com/telemetry
+default.exp-tas.com
+copilot-proxy.githubusercontent.com
+origin-tracker.githubusercontent.com
+# ShatGPT
+chat.openai.com
+api.openai.com
+gpt.openai.com
+# Gemini https://apps.google.com/supportwidget/articlehome?hl=en&article_url=https%3A%2F%2Fsupport.google.com%2Fa%2Fanswer%2F15627649%3Fhl%3Den&assistant_id=generic-unu&product_context=15627649&product_name=UnuFlow&trigger_context=a
+gemini.google.com
